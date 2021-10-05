@@ -1,0 +1,10 @@
+.headline{
+    color: darkolivegreen;
+    font-size: larger;
+    font-weight: bolder;
+    height: 100%;
+}
+.bg-color{
+    background-color: lightgray;
+   padding: 40px;  
+}

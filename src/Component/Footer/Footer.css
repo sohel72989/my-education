@@ -1,0 +1,12 @@
+.footer {
+    height:200px;
+    background-color: dimgray;
+    margin-top: 50px;
+}
+.footerCopy{
+    color: rgb(38, 39, 36);
+}
+.footerStyle{
+    width: 100%;
+    padding: 15px;
+}

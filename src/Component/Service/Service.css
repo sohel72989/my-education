@@ -1,0 +1,17 @@
+.course-img {
+    width:100%;
+    height:400px;
+}
+.button{
+    background-color: darkolivegreen;
+    border-radius: 5px;
+    padding: 5px;
+    margin-bottom: 15px;
+}
+Card {
+    width:100px
+}
+
+ul li {
+    list-style: none;
+}

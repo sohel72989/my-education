@@ -1,0 +1,46 @@
+.header{
+    background-image: url("./bg.jpg");
+    opacity: 0.9;
+    width:100%;
+    margin-top: 10px;
+    height:auto;
+    padding-bottom: 20px;
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+
+p{
+    width:50%;
+    margin:auto;
+    color:cornflowerblue;
+    padding-top: 50px;
+}
+
+.Academy-btn {
+    background-color:darkolivegreen;
+    color:white;
+    padding:10px;
+    border:none;
+    border-radius: 15px;
+    margin-top:50px;
+}
+
+.Academy-btn:hover {
+    background-color: rgb(75, 25, 66);
+}
+
+
+.description {
+    font-size: 29px;
+    color:darkslategrey;
+}
+.headlines{
+    color: rgb(111, 133, 74);
+    font-size: larger;
+    font-weight: bold;
+}
+.color{
+    color: rgb(38, 109, 109);
+
+}
